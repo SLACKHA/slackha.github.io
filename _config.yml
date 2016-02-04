@@ -37,6 +37,9 @@ author:
 github:
   repo: https://github.com/SLACKHA/slackha
 
+# Custom vars
+version:             0.0.0
+
 kramdown:
    input: GFM
    hard_wrap: false
