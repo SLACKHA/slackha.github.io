@@ -7,25 +7,31 @@
 
 # Site settings
 
-# Dependencies
-markdown:         kramdown
-
 # Permalinks
-permalink:        pretty
-# relative_permalinks: true
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
 # Setup
 title:            SLACKHA
 tagline:          'Software Library for Accelerating Chemical Kinetics on Hybrid'
 description:      ''
 url:              http://slackha.github.io/
-baseurl:          /
+baseurl:             ""
 
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
 author:
-  name: 'Kyle Niemeyer'
-  url: http://kyleniemeyer.com
-  email: kyle.niemeyer@gmail.com
-
+  name:     Kyle Niemeyer
+  url:      http://kyleniemeyer.com
+  email:    kyle.niemeyer@gmail.com
 
 github:
   repo: https://github.com/SLACKHA/slackha
