@@ -19,6 +19,7 @@ tagline:          'Software Library for Accelerating Chemical Kinetics on Hybrid
 description:      ''
 url:              http://slackha.github.io/
 baseurl:          "http://slackha.github.io/"
+paginate:            5
 
 # Assets
 #
