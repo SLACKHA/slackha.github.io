@@ -27,7 +27,7 @@ Site under development---please check back soon!
 
 # Thanks
 
-![NSF logo](/public/img/nsf1.jpg){:width="224px"}
+![NSF logo](/public/img/nsf1.jpg){:width="224px" class="inset right img-circle"}
 
 We gratefully acknowledge funding from the NSF through the [SI2 program](www.nsf.gov/si2/)
 under grants [1535065](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1535065&HistoricalAwards=false) (Oregon State)
