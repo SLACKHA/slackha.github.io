@@ -3,7 +3,7 @@ layout: default
 title: SLACKHA
 ---
 
-# SLACKHA
+# Welcome to SLACKHA!
 
 Site under development---please check back soon!
 
