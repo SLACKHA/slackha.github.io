@@ -3,16 +3,11 @@ layout: default
 title: SLACKHA
 ---
 
-<span style="font-family:Avant Garde">SLACKHA</span>
-====================================================
+# SLACKHA
 
 Site under development---please check back soon!
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+## <a href="{{ post.url }}">{{ post.title }}</a>
+  {{ post.excerpt }}
+{% endfor %}
