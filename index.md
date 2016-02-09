@@ -21,8 +21,8 @@ Site under development---please check back soon!
 
  * [Kyle Niemeyer](http://kyleniemeyer.com), Oregon State University
  * [Chih-Jen Sung](http://combdiaglab.engr.uconn.edu), University of Connecticut
- * [Nicholas Curtis], University of Connecticut
- * Himakar Ganti, University of Connecticut
+ * Nicholas Curtis, University of Connecticut
+ * Himakar Ganti, Oregon State University
  * Christopher Stone, Computational Science & Engineering
 
 # Thanks
@@ -32,3 +32,6 @@ Site under development---please check back soon!
 We gratefully acknowledge funding from the NSF through the [SI2 program](www.nsf.gov/si2/)
 under grants [1535065](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1535065&HistoricalAwards=false) (Oregon State)
 and [1534688](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1534688&HistoricalAwards=false) (UConn).
+
+In addition, we thank [Convergent Science](https://convergecfd.com) for providing access to their CFD
+software and working with us.
