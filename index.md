@@ -22,7 +22,6 @@ Site under development---please check back soon!
  * [Kyle Niemeyer](http://kyleniemeyer.com), Oregon State University
  * [Chih-Jen Sung](http://combdiaglab.engr.uconn.edu), University of Connecticut
  * [Nicholas Curtis](https://github.com/arghdos), University of Connecticut
- * Himakar Ganti, Oregon State University
  * Christopher Stone, Computational Science & Engineering
 
 # Thanks
