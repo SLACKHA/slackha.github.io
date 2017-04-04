@@ -7,7 +7,12 @@ title: SLACKHA
 
 Site under development---please check back soon!
 
-# Updates
+## Software
+
+ * [pyJac](https://github.com/SLACKHA/pyJac): Python-based software that creates C and CUDA analytical Jacobians for chemical kinetics ODE systems
+ * [accelerInt](https://github.com/SLACKHA/accelerInt): Library of tested and verified ODE solvers for chemical kinetics
+
+## Updates
 
 <ul>
   {% for post in site.posts %}
@@ -17,14 +22,14 @@ Site under development---please check back soon!
   {% endfor %}
 </ul>
 
-# Team
+## Team
 
  * [Kyle Niemeyer](http://kyleniemeyer.com), Oregon State University
  * [Chih-Jen Sung](http://combdiaglab.engr.uconn.edu), University of Connecticut
  * [Nicholas Curtis](https://github.com/arghdos), University of Connecticut
  * Christopher Stone, Computational Science & Engineering
 
-# Thanks
+## Thanks
 
 <img style="float: right;" src="/public/img/nsf1.jpg" width="224px">
 
